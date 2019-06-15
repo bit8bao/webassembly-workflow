@@ -41,9 +41,3 @@ I've included some sample code as a tiny app that serves to show how it all gets
 To get WebAssembly to run in the browser, you must serve it via a server. Just run ```node server``` to use the included one and go to localhost:1337 in the browser. I've also included a tiny node-demo.js file to show how WebAssembly might be loaded into a nodejs environment.
 
 **Make sure to install emscripten first, at "C:/emsdk". If you've installed it elsewhere, or have installed it globally, just change the path in the gruntfile.**
-
-# Contributing
-
-I've tried to make this as easy as possible to use, with as little set up as possible, while keeping it Windows friendly. If there are ways to improve it, or if there are really useful things that can be added, I'd be glad to accept feedback and / or pull requests.
-
-One thing I was not able to get done in the time I had for this, but would be awesome to have, was seeing the C++ test coverage while developing (It can only be seen on codecov), due to how messy it was to set up gcov/lcov on Windows.
