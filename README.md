@@ -5,6 +5,9 @@ WebAssembly workflow
 
 This is a project shell to use for starting new WebAssembly projects. The workflow has been configured with task runners for packaging JavaScript files, to compile C++ with emscripten, and to minify both.
 
+# MacOs
+This repository was create for MacOS builds and to add additional features to @DanRuta repo to help WebAssembly Community on their workflow
+
 # Read more
 Medium article with set-up instructions, and some suggestions for alternatives:
 
