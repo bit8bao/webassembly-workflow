@@ -53,7 +53,7 @@
   "dependencies": {
     "babel-traverse": "^6.26.0",
     "braces": "^3.0.2",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.5.3",
     "istanbul-lib-instrument": "^3.3.0",
     "istanbul-reports": "^2.2.6",
     "js-yaml": "^3.13.1",
