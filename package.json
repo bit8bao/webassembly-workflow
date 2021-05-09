@@ -57,7 +57,7 @@
     "istanbul-lib-instrument": "^3.3.0",
     "istanbul-reports": "^2.2.6",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "randomatic": "^3.1.1",
     "tunnel-agent": ">=0.6.0"
   }
